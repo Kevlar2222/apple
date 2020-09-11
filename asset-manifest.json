@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apple/static/css/main.5f361e03.chunk.css",
+    "main.js": "/apple/static/js/main.61435812.chunk.js",
+    "main.js.map": "/apple/static/js/main.61435812.chunk.js.map",
+    "runtime-main.js": "/apple/static/js/runtime-main.acc50272.js",
+    "runtime-main.js.map": "/apple/static/js/runtime-main.acc50272.js.map",
+    "static/js/2.b772e020.chunk.js": "/apple/static/js/2.b772e020.chunk.js",
+    "static/js/2.b772e020.chunk.js.map": "/apple/static/js/2.b772e020.chunk.js.map",
+    "index.html": "/apple/index.html",
+    "precache-manifest.7ac039fb5d5938967cba977e2c4ec04e.js": "/apple/precache-manifest.7ac039fb5d5938967cba977e2c4ec04e.js",
+    "service-worker.js": "/apple/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/apple/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b772e020.chunk.js.LICENSE.txt": "/apple/static/js/2.b772e020.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/apple/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acc50272.js",
+    "static/js/2.b772e020.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.61435812.chunk.js"
+  ]
+}
